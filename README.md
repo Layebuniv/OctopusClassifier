@@ -1,6 +1,26 @@
 # MST Octopus Classifier
 
 A family of novel classifiers that model each class as an **octopus** — a creature with a body (centroid) and tentacles (Minimum Spanning Tree) that races toward every test point. The class whose octopus arrives first wins.
+# Citation
+ 
+If you use this work in your research, please cite the original paper:
+ 
+> Layeb, A. & Khadoudja, G. (2025). **Octopus Classifier: A New Bio-inspired Classifier Based Minimal Spanning Tree**. In *2025 Fourth International Conference on Theoretical and Applicative Aspects of Computer Science (ICTAACS)* (pp. 1–7). IEEE.  
+> DOI: [10.1109/ICTAACS64990.2025.11399349](https://ieeexplore.ieee.org/document/11399349)
+ 
+BibTeX:
+ 
+```bibtex
+@inproceedings{layeb2025octopus,
+  author    = {Layeb, Abdesslem and Khadoudja, Ghanem},
+  title     = {Octopus Classifier: A New Bio-inspired Classifier Based Minimal Spanning Tree},
+  booktitle = {2025 Fourth International Conference on Theoretical and Applicative Aspects of Computer Science (ICTAACS)},
+  pages     = {1--7},
+  year      = {2025},
+  publisher = {IEEE},
+  doi       = {10.1109/ICTAACS64990.2025.11399349},
+  url       = {https://ieeexplore.ieee.org/document/11399349}
+}
 
 ## The idea
 
